@@ -96,3 +96,17 @@ ul{
 .services .card2{
     padding: 1.5rem;
 }
+.upload{
+    background-color: #395590;
+    /* border: 2px solid #007bff; */
+    padding: 10px 15px;
+    display: inline-block;
+    margin-top: 30px;
+    width: fit-content;
+    font-family: roboto;
+    margin-left: 2rem;
+    color: #fff;
+}
+input[type="file"]{
+    display: none;
+}
